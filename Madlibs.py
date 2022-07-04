@@ -9,3 +9,5 @@ madlib = f"I am  {name}. I always code in {prog_lang} programing language. \
 it makes me so excited all the time . \
 Don't forget to enjoy learning  and having fun like your role model {famous_person}!"
 
+print(madlib)
+
